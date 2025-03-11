@@ -59,3 +59,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Sandeep Kumar Nayak - @your_twitter
 
 Project Link: https://github.com/SandeepKumarNayak/spotify
+Live project Link: https://spotify-sandeep.netlify.app/
