@@ -12,7 +12,7 @@ const Navbar = () => {
         </div>
         <div className="flex items-center gap-4">
             <p className="bg-white text-black text-[15px] px-4 py-1 rounded-2xl cursor-pointer hidden md:block">Explore Premium</p>
-            <p className="bg-black text-white text-[15px] px-4 py-1 rounded-2xl cursor-pointer">Upgrade App</p>
+            <p className="bg-black text-white text-[15px] px-4 py-1 rounded-2xl cursor-pointer">Install app</p>
             <p className="bg-purple-500 text-black w-7 h-7 items-center justify-center flex rounded-full cursor-pointer">S</p>
         </div>
       </div>
